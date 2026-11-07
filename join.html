@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<title>Follow trips in SafeCity</title>
+<style>
+  :root { color-scheme: light dark; --accent: #0a7d5a; }
+  body { font: 17px/1.45 -apple-system, system-ui, sans-serif; margin: 0; padding: 48px 20px; display: flex; justify-content: center; }
+  main { max-width: 420px; text-align: center; }
+  h1 { font-size: 24px; margin: 0 0 12px; }
+  p { margin: 0 0 16px; opacity: .85; }
+  a.button { display: inline-block; background: var(--accent); color: #fff; text-decoration: none; font-weight: 600;
+             padding: 14px 24px; border-radius: 14px; margin: 8px 0 24px; }
+  small { opacity: .6; }
+</style>
+</head>
+<body>
+<main>
+  <h1 id="title">Follow trips in SafeCity</h1>
+  <p id="lead">Open this invite in SafeCity to see where they are while they're on their way, and get an alert if they need help.</p>
+  <a class="button" id="open" href="#">Open in SafeCity</a>
+  <p><small>Don't have SafeCity yet? Ask the person who invited you how to get it, then tap this link again.</small></p>
+  <p><small>This page never sends the invite anywhere: everything after the # in the link stays on your phone.</small></p>
+</main>
+<script>
+  // The invite (circle, key, name) is in the part after "#", which browsers never send to the server.
+  var fields = location.hash.slice(1);
+  var params = new URLSearchParams(fields);
+  var name = (params.get("n") || "").slice(0, 40);
+  if (name) {
+    document.getElementById("title").textContent = "Follow " + name + "'s trips";
+    document.getElementById("lead").textContent = name + " invited you to see where they are while they're on their way, and to get an alert if they need help.";
+  }
+  if (params.get("c") && params.get("s")) {
+    var app = "safecity://join?" + fields;
+    document.getElementById("open").href = app;
+    location.href = app;
+  } else {
+    document.getElementById("open").style.display = "none";
+    document.getElementById("lead").textContent = "This invite link is incomplete. Ask for a new one.";
+  }
+</script>
+</body>
+</html>
