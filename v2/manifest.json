@@ -1,0 +1,2742 @@
+{
+ "version": 2,
+ "generated": "2026-11-09T20:57:32Z",
+ "osm_base": "2026-11-08T21:21:00Z",
+ "tile": {
+  "lat": 0.25,
+  "lon": 0.5
+ },
+ "bounds": [
+  48.3249818,
+  -136.6085287,
+  60.0056573,
+  -114.0656905
+ ],
+ "tiles": {
+  "193_-229": {
+   "hours": 39
+  },
+  "193_-232": {
+   "hours": 15
+  },
+  "193_-234": {
+   "hours": 1
+  },
+  "193_-235": {
+   "hours": 1
+  },
+  "193_-236": {
+   "hours": 1
+  },
+  "193_-239": {
+   "hours": 2
+  },
+  "193_-240": {
+   "hours": 29
+  },
+  "193_-241": {
+   "hours": 6
+  },
+  "193_-244": {
+   "hours": 1
+  },
+  "193_-245": {
+   "hours": 160
+  },
+  "193_-246": {
+   "hours": 14
+  },
+  "193_-247": {
+   "washrooms": 475,
+   "essentials": 162,
+   "speeds": 4348,
+   "lanes": 157,
+   "hours": 399
+  },
+  "193_-248": {
+   "washrooms": 142,
+   "essentials": 44,
+   "speeds": 915,
+   "lanes": 36,
+   "hours": 70
+  },
+  "193_-249": {
+   "washrooms": 36,
+   "essentials": 10,
+   "speeds": 28
+  },
+  "193_-250": {
+   "hours": 1
+  },
+  "194_-230": {
+   "hours": 3
+  },
+  "194_-233": {
+   "hours": 20
+  },
+  "194_-234": {
+   "hours": 1
+  },
+  "194_-235": {
+   "hours": 1
+  },
+  "194_-236": {
+   "hours": 24
+  },
+  "194_-237": {
+   "hours": 2
+  },
+  "194_-238": {
+   "hours": 3
+  },
+  "194_-239": {
+   "hours": 4
+  },
+  "194_-240": {
+   "hours": 1
+  },
+  "194_-243": {
+   "hours": 1
+  },
+  "194_-244": {
+   "hours": 4
+  },
+  "194_-245": {
+   "hours": 69
+  },
+  "194_-246": {
+   "hours": 42
+  },
+  "194_-247": {
+   "washrooms": 140,
+   "essentials": 48,
+   "speeds": 838,
+   "lanes": 88,
+   "hours": 57
+  },
+  "194_-248": {
+   "washrooms": 81,
+   "essentials": 15,
+   "speeds": 497,
+   "lanes": 49,
+   "hours": 22
+  },
+  "194_-249": {
+   "washrooms": 33,
+   "essentials": 1,
+   "speeds": 54
+  },
+  "194_-250": {
+   "washrooms": 14
+  },
+  "194_-251": {
+   "washrooms": 3
+  },
+  "195_-230": {
+   "hours": 1
+  },
+  "195_-231": {
+   "speeds": 3,
+   "hours": 5
+  },
+  "195_-233": {
+   "hours": 1
+  },
+  "195_-235": {
+   "washrooms": 1,
+   "hours": 2
+  },
+  "195_-236": {
+   "hours": 3
+  },
+  "195_-237": {
+   "speeds": 1,
+   "hours": 1
+  },
+  "195_-238": {
+   "speeds": 9,
+   "hours": 3
+  },
+  "195_-239": {
+   "speeds": 6,
+   "hours": 7
+  },
+  "195_-240": {
+   "hours": 1
+  },
+  "195_-243": {
+   "washrooms": 1
+  },
+  "195_-245": {
+   "speeds": 3,
+   "hours": 212
+  },
+  "195_-246": {
+   "speeds": 1,
+   "hours": 74
+  },
+  "195_-247": {
+   "washrooms": 88,
+   "essentials": 15,
+   "speeds": 304,
+   "hours": 17
+  },
+  "195_-248": {
+   "washrooms": 152,
+   "essentials": 21,
+   "speeds": 1226,
+   "lanes": 53,
+   "hours": 83
+  },
+  "195_-249": {
+   "washrooms": 46,
+   "essentials": 3,
+   "speeds": 145,
+   "lanes": 1,
+   "hours": 8
+  },
+  "195_-250": {
+   "washrooms": 5,
+   "essentials": 2,
+   "speeds": 42
+  },
+  "195_-251": {
+   "washrooms": 9,
+   "speeds": 11,
+   "hours": 1
+  },
+  "195_-252": {
+   "washrooms": 29,
+   "essentials": 1,
+   "speeds": 31,
+   "hours": 3
+  },
+  "196_-229": {
+   "washrooms": 1
+  },
+  "196_-230": {
+   "washrooms": 1
+  },
+  "196_-231": {
+   "washrooms": 2,
+   "speeds": 22
+  },
+  "196_-232": {
+   "speeds": 5
+  },
+  "196_-233": {
+   "washrooms": 7,
+   "essentials": 1,
+   "speeds": 88,
+   "hours": 3
+  },
+  "196_-234": {
+   "washrooms": 32,
+   "essentials": 2,
+   "speeds": 142,
+   "hours": 15
+  },
+  "196_-235": {
+   "washrooms": 10,
+   "speeds": 52,
+   "hours": 3
+  },
+  "196_-236": {
+   "washrooms": 51,
+   "essentials": 10,
+   "speeds": 84,
+   "lanes": 7,
+   "hours": 32
+  },
+  "196_-237": {
+   "washrooms": 46,
+   "essentials": 5,
+   "speeds": 65,
+   "lanes": 1,
+   "hours": 12
+  },
+  "196_-238": {
+   "washrooms": 27,
+   "essentials": 9,
+   "speeds": 82,
+   "lanes": 2,
+   "hours": 3
+  },
+  "196_-239": {
+   "washrooms": 35,
+   "essentials": 3,
+   "speeds": 95,
+   "lanes": 3,
+   "hours": 17
+  },
+  "196_-240": {
+   "washrooms": 31,
+   "essentials": 4,
+   "speeds": 127,
+   "lanes": 8,
+   "hours": 19
+  },
+  "196_-241": {
+   "washrooms": 3,
+   "speeds": 1
+  },
+  "196_-242": {
+   "washrooms": 67,
+   "essentials": 31,
+   "speeds": 87,
+   "lanes": 3
+  },
+  "196_-243": {
+   "washrooms": 33,
+   "essentials": 13,
+   "speeds": 16
+  },
+  "196_-244": {
+   "washrooms": 214,
+   "essentials": 51,
+   "speeds": 286,
+   "lanes": 94,
+   "hours": 144
+  },
+  "196_-245": {
+   "washrooms": 529,
+   "essentials": 107,
+   "speeds": 2727,
+   "lanes": 684,
+   "hours": 335
+  },
+  "196_-246": {
+   "washrooms": 1556,
+   "essentials": 361,
+   "speeds": 11407,
+   "lanes": 4066,
+   "hours": 1311
+  },
+  "196_-247": {
+   "washrooms": 979,
+   "essentials": 296,
+   "speeds": 6419,
+   "lanes": 1427,
+   "hours": 698
+  },
+  "196_-248": {
+   "washrooms": 181,
+   "essentials": 35,
+   "speeds": 1150,
+   "lanes": 107,
+   "hours": 81
+  },
+  "196_-249": {
+   "washrooms": 73,
+   "essentials": 17,
+   "speeds": 536,
+   "lanes": 39,
+   "hours": 98
+  },
+  "196_-250": {
+   "washrooms": 31,
+   "essentials": 6,
+   "speeds": 37,
+   "lanes": 2,
+   "hours": 10
+  },
+  "196_-251": {
+   "washrooms": 7,
+   "essentials": 3
+  },
+  "196_-252": {
+   "washrooms": 65,
+   "essentials": 29,
+   "speeds": 48,
+   "hours": 5
+  },
+  "197_-231": {
+   "washrooms": 5,
+   "speeds": 78,
+   "hours": 2
+  },
+  "197_-232": {
+   "washrooms": 10,
+   "essentials": 10,
+   "speeds": 25,
+   "lanes": 2,
+   "hours": 1
+  },
+  "197_-234": {
+   "speeds": 6
+  },
+  "197_-235": {
+   "washrooms": 40,
+   "essentials": 4,
+   "speeds": 68,
+   "lanes": 6,
+   "hours": 20
+  },
+  "197_-236": {
+   "washrooms": 38,
+   "essentials": 5,
+   "speeds": 204,
+   "lanes": 10,
+   "hours": 29
+  },
+  "197_-237": {
+   "washrooms": 2,
+   "speeds": 2
+  },
+  "197_-238": {
+   "washrooms": 1
+  },
+  "197_-239": {
+   "washrooms": 3,
+   "speeds": 17,
+   "hours": 1
+  },
+  "197_-240": {
+   "washrooms": 80,
+   "essentials": 11,
+   "speeds": 482,
+   "lanes": 57,
+   "hours": 78
+  },
+  "197_-241": {
+   "washrooms": 16,
+   "speeds": 60,
+   "lanes": 8,
+   "hours": 1
+  },
+  "197_-242": {
+   "washrooms": 19,
+   "essentials": 2,
+   "speeds": 108,
+   "lanes": 3,
+   "hours": 7
+  },
+  "197_-243": {
+   "washrooms": 62,
+   "essentials": 9,
+   "speeds": 226,
+   "lanes": 19,
+   "hours": 16
+  },
+  "197_-244": {
+   "washrooms": 85,
+   "essentials": 20,
+   "speeds": 66,
+   "lanes": 5,
+   "hours": 6
+  },
+  "197_-245": {
+   "washrooms": 101,
+   "essentials": 42,
+   "speeds": 35
+  },
+  "197_-246": {
+   "washrooms": 418,
+   "essentials": 132,
+   "speeds": 1793,
+   "lanes": 857,
+   "hours": 289
+  },
+  "197_-247": {
+   "washrooms": 1477,
+   "essentials": 423,
+   "speeds": 6177,
+   "lanes": 1416,
+   "hours": 1032
+  },
+  "197_-248": {
+   "washrooms": 62,
+   "essentials": 17,
+   "speeds": 141,
+   "lanes": 16,
+   "hours": 29
+  },
+  "197_-249": {
+   "washrooms": 97,
+   "essentials": 24,
+   "speeds": 333,
+   "lanes": 38,
+   "hours": 47
+  },
+  "197_-250": {
+   "washrooms": 93,
+   "essentials": 21,
+   "speeds": 191,
+   "lanes": 5,
+   "hours": 29
+  },
+  "197_-251": {
+   "washrooms": 8,
+   "speeds": 3
+  },
+  "197_-252": {
+   "washrooms": 3
+  },
+  "197_-253": {
+   "washrooms": 5,
+   "hours": 1
+  },
+  "198_-229": {
+   "hours": 16
+  },
+  "198_-230": {
+   "washrooms": 9,
+   "essentials": 2,
+   "speeds": 69,
+   "lanes": 2,
+   "hours": 9
+  },
+  "198_-231": {
+   "washrooms": 11,
+   "essentials": 1,
+   "speeds": 31,
+   "hours": 15
+  },
+  "198_-232": {
+   "washrooms": 61,
+   "essentials": 4,
+   "speeds": 114,
+   "lanes": 2,
+   "hours": 52
+  },
+  "198_-233": {
+   "washrooms": 4,
+   "speeds": 2
+  },
+  "198_-234": {
+   "washrooms": 12,
+   "essentials": 1,
+   "speeds": 28,
+   "hours": 3
+  },
+  "198_-235": {
+   "washrooms": 15,
+   "essentials": 6,
+   "speeds": 27,
+   "hours": 6
+  },
+  "198_-236": {
+   "washrooms": 6,
+   "speeds": 18,
+   "hours": 2
+  },
+  "198_-238": {
+   "washrooms": 3,
+   "speeds": 23
+  },
+  "198_-239": {
+   "speeds": 5
+  },
+  "198_-240": {
+   "washrooms": 69,
+   "essentials": 25,
+   "speeds": 245,
+   "lanes": 56,
+   "hours": 19
+  },
+  "198_-241": {
+   "washrooms": 4,
+   "speeds": 33
+  },
+  "198_-242": {
+   "washrooms": 18,
+   "speeds": 23,
+   "hours": 1
+  },
+  "198_-243": {
+   "washrooms": 23,
+   "essentials": 4,
+   "speeds": 89,
+   "lanes": 6,
+   "hours": 1
+  },
+  "198_-244": {
+   "washrooms": 9
+  },
+  "198_-245": {
+   "washrooms": 1
+  },
+  "198_-246": {
+   "washrooms": 3
+  },
+  "198_-247": {
+   "washrooms": 90,
+   "essentials": 15,
+   "speeds": 178,
+   "lanes": 20,
+   "hours": 38
+  },
+  "198_-248": {
+   "washrooms": 21,
+   "essentials": 6,
+   "speeds": 4,
+   "hours": 1
+  },
+  "198_-249": {
+   "washrooms": 10,
+   "essentials": 1,
+   "speeds": 4,
+   "hours": 3
+  },
+  "198_-250": {
+   "washrooms": 146,
+   "essentials": 25,
+   "speeds": 433,
+   "lanes": 14,
+   "hours": 86
+  },
+  "198_-251": {
+   "washrooms": 39,
+   "essentials": 2,
+   "speeds": 254,
+   "lanes": 12,
+   "hours": 3
+  },
+  "198_-252": {
+   "washrooms": 19,
+   "essentials": 3,
+   "speeds": 14
+  },
+  "198_-253": {
+   "speeds": 6
+  },
+  "198_-254": {
+   "washrooms": 2,
+   "speeds": 2
+  },
+  "199_-230": {
+   "speeds": 36
+  },
+  "199_-231": {
+   "washrooms": 3
+  },
+  "199_-232": {
+   "washrooms": 13,
+   "speeds": 7,
+   "hours": 1
+  },
+  "199_-234": {
+   "washrooms": 12,
+   "speeds": 34,
+   "hours": 2
+  },
+  "199_-235": {
+   "washrooms": 15,
+   "hours": 3
+  },
+  "199_-236": {
+   "washrooms": 7
+  },
+  "199_-237": {
+   "washrooms": 4,
+   "speeds": 1,
+   "hours": 1
+  },
+  "199_-238": {
+   "washrooms": 2,
+   "speeds": 2
+  },
+  "199_-239": {
+   "washrooms": 203,
+   "essentials": 17,
+   "speeds": 551,
+   "lanes": 136,
+   "hours": 280
+  },
+  "199_-240": {
+   "washrooms": 96,
+   "essentials": 6,
+   "speeds": 296,
+   "lanes": 59,
+   "hours": 58
+  },
+  "199_-241": {
+   "washrooms": 3,
+   "speeds": 38,
+   "lanes": 2
+  },
+  "199_-242": {
+   "washrooms": 10,
+   "speeds": 95,
+   "lanes": 2
+  },
+  "199_-243": {
+   "washrooms": 13,
+   "speeds": 65,
+   "hours": 1
+  },
+  "199_-244": {
+   "washrooms": 3,
+   "speeds": 1,
+   "hours": 1
+  },
+  "199_-245": {
+   "speeds": 2
+  },
+  "199_-246": {
+   "washrooms": 8
+  },
+  "199_-247": {
+   "washrooms": 59,
+   "essentials": 20,
+   "speeds": 90,
+   "lanes": 7,
+   "hours": 1
+  },
+  "199_-248": {
+   "washrooms": 1
+  },
+  "199_-249": {
+   "washrooms": 14,
+   "speeds": 15
+  },
+  "199_-250": {
+   "washrooms": 48,
+   "essentials": 4,
+   "speeds": 59,
+   "hours": 23
+  },
+  "199_-251": {
+   "washrooms": 45,
+   "essentials": 15,
+   "speeds": 308,
+   "lanes": 8,
+   "hours": 15
+  },
+  "199_-252": {
+   "washrooms": 15,
+   "essentials": 2,
+   "speeds": 45
+  },
+  "199_-253": {
+   "washrooms": 3,
+   "essentials": 1,
+   "speeds": 10,
+   "hours": 2
+  },
+  "199_-254": {
+   "washrooms": 7,
+   "speeds": 13,
+   "hours": 2
+  },
+  "199_-255": {
+   "washrooms": 1,
+   "essentials": 1
+  },
+  "200_-230": {
+   "washrooms": 2,
+   "speeds": 93,
+   "hours": 2
+  },
+  "200_-232": {
+   "washrooms": 4,
+   "speeds": 4,
+   "hours": 1
+  },
+  "200_-234": {
+   "washrooms": 5,
+   "speeds": 2,
+   "hours": 1
+  },
+  "200_-235": {
+   "washrooms": 8,
+   "speeds": 1
+  },
+  "200_-236": {
+   "washrooms": 29,
+   "essentials": 4,
+   "hours": 3
+  },
+  "200_-237": {
+   "washrooms": 3
+  },
+  "200_-238": {
+   "washrooms": 9,
+   "speeds": 5,
+   "hours": 3
+  },
+  "200_-239": {
+   "washrooms": 56,
+   "essentials": 6,
+   "speeds": 226,
+   "lanes": 39,
+   "hours": 20
+  },
+  "200_-240": {
+   "speeds": 18
+  },
+  "200_-241": {
+   "speeds": 29,
+   "hours": 1
+  },
+  "200_-242": {
+   "washrooms": 48,
+   "essentials": 2,
+   "speeds": 108,
+   "lanes": 4,
+   "hours": 17
+  },
+  "200_-243": {
+   "speeds": 8
+  },
+  "200_-244": {
+   "washrooms": 8,
+   "essentials": 1,
+   "speeds": 32
+  },
+  "200_-245": {
+   "washrooms": 4
+  },
+  "200_-246": {
+   "washrooms": 73,
+   "essentials": 17,
+   "speeds": 294,
+   "lanes": 49,
+   "hours": 24
+  },
+  "200_-247": {
+   "washrooms": 38,
+   "essentials": 1,
+   "speeds": 85,
+   "lanes": 4
+  },
+  "200_-248": {
+   "washrooms": 2
+  },
+  "200_-249": {
+   "washrooms": 1
+  },
+  "200_-250": {
+   "washrooms": 15,
+   "speeds": 2,
+   "hours": 2
+  },
+  "200_-251": {
+   "washrooms": 89,
+   "essentials": 16,
+   "speeds": 192,
+   "lanes": 4,
+   "hours": 52
+  },
+  "200_-252": {
+   "washrooms": 4,
+   "speeds": 14
+  },
+  "200_-253": {
+   "washrooms": 1,
+   "speeds": 19
+  },
+  "200_-254": {
+   "washrooms": 5,
+   "speeds": 63,
+   "hours": 1
+  },
+  "201_-232": {
+   "washrooms": 11,
+   "speeds": 17,
+   "hours": 4
+  },
+  "201_-233": {
+   "washrooms": 3,
+   "speeds": 6
+  },
+  "201_-236": {
+   "washrooms": 2,
+   "speeds": 1
+  },
+  "201_-238": {
+   "washrooms": 3
+  },
+  "201_-239": {
+   "washrooms": 91,
+   "essentials": 5,
+   "speeds": 206,
+   "lanes": 35,
+   "hours": 112
+  },
+  "201_-240": {
+   "speeds": 12,
+   "hours": 1
+  },
+  "201_-241": {
+   "washrooms": 10,
+   "speeds": 9
+  },
+  "201_-242": {
+   "washrooms": 22,
+   "essentials": 7,
+   "speeds": 87,
+   "lanes": 4,
+   "hours": 3
+  },
+  "201_-243": {
+   "washrooms": 6,
+   "speeds": 27,
+   "hours": 1
+  },
+  "201_-244": {
+   "washrooms": 14,
+   "essentials": 9,
+   "speeds": 17,
+   "hours": 2
+  },
+  "201_-245": {
+   "washrooms": 11,
+   "speeds": 16
+  },
+  "201_-246": {
+   "washrooms": 38,
+   "essentials": 4,
+   "speeds": 64,
+   "lanes": 2,
+   "hours": 4
+  },
+  "201_-252": {
+   "washrooms": 6,
+   "essentials": 2,
+   "speeds": 34,
+   "hours": 2
+  },
+  "201_-253": {
+   "washrooms": 5,
+   "essentials": 4,
+   "speeds": 7
+  },
+  "201_-254": {
+   "washrooms": 4,
+   "speeds": 30
+  },
+  "201_-255": {
+   "washrooms": 2,
+   "essentials": 1,
+   "hours": 1
+  },
+  "202_-229": {
+   "hours": 9
+  },
+  "202_-231": {
+   "washrooms": 1
+  },
+  "202_-232": {
+   "washrooms": 10,
+   "speeds": 1
+  },
+  "202_-233": {
+   "washrooms": 35,
+   "essentials": 1,
+   "speeds": 14,
+   "hours": 16
+  },
+  "202_-234": {
+   "washrooms": 4
+  },
+  "202_-236": {
+   "washrooms": 2
+  },
+  "202_-238": {
+   "washrooms": 1,
+   "speeds": 1
+  },
+  "202_-239": {
+   "washrooms": 69,
+   "essentials": 5,
+   "speeds": 211,
+   "lanes": 38,
+   "hours": 40
+  },
+  "202_-240": {
+   "washrooms": 5,
+   "speeds": 73,
+   "lanes": 8,
+   "hours": 4
+  },
+  "202_-241": {
+   "washrooms": 218,
+   "essentials": 32,
+   "speeds": 947,
+   "lanes": 276,
+   "hours": 175
+  },
+  "202_-242": {
+   "washrooms": 11,
+   "speeds": 27,
+   "lanes": 1,
+   "hours": 1
+  },
+  "202_-243": {
+   "washrooms": 12,
+   "essentials": 1,
+   "speeds": 29,
+   "lanes": 1,
+   "hours": 2
+  },
+  "202_-244": {
+   "washrooms": 17,
+   "essentials": 4,
+   "speeds": 16,
+   "lanes": 6,
+   "hours": 7
+  },
+  "202_-245": {
+   "washrooms": 3,
+   "speeds": 14,
+   "hours": 1
+  },
+  "202_-246": {
+   "washrooms": 16,
+   "essentials": 5,
+   "speeds": 2
+  },
+  "202_-247": {
+   "washrooms": 7
+  },
+  "202_-253": {
+   "essentials": 1,
+   "hours": 1
+  },
+  "202_-254": {
+   "washrooms": 10,
+   "essentials": 9,
+   "speeds": 6,
+   "hours": 2
+  },
+  "202_-255": {
+   "washrooms": 36,
+   "essentials": 4,
+   "speeds": 48,
+   "hours": 17
+  },
+  "202_-256": {
+   "washrooms": 2,
+   "speeds": 41,
+   "hours": 1
+  },
+  "202_-257": {
+   "washrooms": 15,
+   "essentials": 4,
+   "hours": 1
+  },
+  "203_-229": {
+   "hours": 340
+  },
+  "203_-230": {
+   "hours": 4
+  },
+  "203_-231": {
+   "hours": 1
+  },
+  "203_-232": {
+   "washrooms": 2,
+   "speeds": 1
+  },
+  "203_-233": {
+   "washrooms": 2,
+   "speeds": 1,
+   "hours": 1
+  },
+  "203_-237": {
+   "washrooms": 21,
+   "essentials": 4,
+   "speeds": 58,
+   "lanes": 5,
+   "hours": 2
+  },
+  "203_-238": {
+   "washrooms": 15,
+   "speeds": 123,
+   "lanes": 15,
+   "hours": 11
+  },
+  "203_-239": {
+   "washrooms": 27,
+   "essentials": 1,
+   "speeds": 116,
+   "lanes": 8,
+   "hours": 9
+  },
+  "203_-240": {
+   "washrooms": 25,
+   "essentials": 2,
+   "speeds": 74,
+   "hours": 5
+  },
+  "203_-241": {
+   "washrooms": 29,
+   "essentials": 1,
+   "speeds": 327,
+   "lanes": 14,
+   "hours": 1
+  },
+  "203_-242": {
+   "washrooms": 9,
+   "speeds": 19,
+   "hours": 1
+  },
+  "203_-243": {
+   "washrooms": 12,
+   "speeds": 46,
+   "lanes": 9,
+   "hours": 3
+  },
+  "203_-244": {
+   "washrooms": 3,
+   "speeds": 12
+  },
+  "203_-246": {
+   "washrooms": 4,
+   "speeds": 2,
+   "hours": 1
+  },
+  "203_-254": {
+   "essentials": 6
+  },
+  "203_-255": {
+   "essentials": 3
+  },
+  "203_-256": {
+   "washrooms": 2,
+   "essentials": 4
+  },
+  "203_-257": {
+   "washrooms": 7,
+   "essentials": 6
+  },
+  "204_-229": {
+   "hours": 953
+  },
+  "204_-230": {
+   "hours": 5
+  },
+  "204_-231": {
+   "hours": 34
+  },
+  "204_-232": {
+   "washrooms": 4,
+   "hours": 29
+  },
+  "204_-233": {
+   "washrooms": 8,
+   "essentials": 1
+  },
+  "204_-234": {
+   "washrooms": 15,
+   "speeds": 34,
+   "lanes": 4
+  },
+  "204_-235": {
+   "washrooms": 1
+  },
+  "204_-236": {
+   "washrooms": 7,
+   "speeds": 38
+  },
+  "204_-237": {
+   "washrooms": 30,
+   "essentials": 3,
+   "speeds": 68,
+   "lanes": 5,
+   "hours": 16
+  },
+  "204_-238": {
+   "speeds": 4
+  },
+  "204_-239": {
+   "washrooms": 2
+  },
+  "204_-241": {
+   "washrooms": 10,
+   "essentials": 1,
+   "speeds": 16,
+   "hours": 4
+  },
+  "204_-243": {
+   "washrooms": 1,
+   "speeds": 3
+  },
+  "204_-244": {
+   "washrooms": 9,
+   "essentials": 1,
+   "speeds": 24,
+   "hours": 1
+  },
+  "204_-246": {
+   "washrooms": 3
+  },
+  "205_-233": {
+   "washrooms": 19,
+   "essentials": 4,
+   "speeds": 50,
+   "lanes": 1,
+   "hours": 2
+  },
+  "205_-234": {
+   "washrooms": 42,
+   "essentials": 6,
+   "speeds": 128,
+   "lanes": 10,
+   "hours": 16
+  },
+  "205_-235": {
+   "washrooms": 8,
+   "speeds": 94,
+   "lanes": 5
+  },
+  "205_-236": {
+   "washrooms": 7,
+   "essentials": 1,
+   "speeds": 23,
+   "lanes": 4
+  },
+  "205_-237": {
+   "speeds": 6
+  },
+  "205_-241": {
+   "washrooms": 10,
+   "speeds": 22,
+   "hours": 1
+  },
+  "205_-242": {
+   "washrooms": 2,
+   "speeds": 7
+  },
+  "205_-243": {
+   "washrooms": 11,
+   "essentials": 1,
+   "speeds": 52,
+   "lanes": 4,
+   "hours": 1
+  },
+  "205_-244": {
+   "washrooms": 1,
+   "speeds": 2
+  },
+  "206_-229": {
+   "hours": 22
+  },
+  "206_-230": {
+   "hours": 1
+  },
+  "206_-233": {
+   "washrooms": 1,
+   "essentials": 1
+  },
+  "206_-234": {
+   "washrooms": 3
+  },
+  "206_-235": {
+   "washrooms": 2,
+   "speeds": 1
+  },
+  "206_-236": {
+   "washrooms": 1
+  },
+  "206_-237": {
+   "speeds": 3
+  },
+  "206_-238": {
+   "speeds": 3
+  },
+  "206_-239": {
+   "washrooms": 1,
+   "speeds": 2
+  },
+  "206_-240": {
+   "washrooms": 3,
+   "speeds": 18,
+   "hours": 1
+  },
+  "206_-241": {
+   "washrooms": 26,
+   "essentials": 3,
+   "speeds": 39,
+   "hours": 6
+  },
+  "206_-242": {
+   "washrooms": 4,
+   "speeds": 3
+  },
+  "206_-243": {
+   "washrooms": 28,
+   "essentials": 2,
+   "speeds": 110,
+   "lanes": 10,
+   "hours": 17
+  },
+  "206_-244": {
+   "washrooms": 1
+  },
+  "206_-246": {
+   "speeds": 1
+  },
+  "206_-247": {
+   "speeds": 3
+  },
+  "206_-256": {
+   "hours": 1
+  },
+  "206_-257": {
+   "washrooms": 2
+  },
+  "207_-229": {
+   "hours": 27
+  },
+  "207_-230": {
+   "hours": 10
+  },
+  "207_-236": {
+   "washrooms": 1
+  },
+  "207_-238": {
+   "speeds": 5
+  },
+  "207_-239": {
+   "washrooms": 1,
+   "speeds": 7
+  },
+  "207_-240": {
+   "washrooms": 6
+  },
+  "207_-241": {
+   "washrooms": 13
+  },
+  "207_-242": {
+   "washrooms": 2,
+   "hours": 1
+  },
+  "207_-243": {
+   "washrooms": 7,
+   "speeds": 10,
+   "lanes": 3,
+   "hours": 1
+  },
+  "207_-244": {
+   "washrooms": 3,
+   "essentials": 1,
+   "speeds": 32,
+   "lanes": 3
+  },
+  "207_-245": {
+   "washrooms": 1,
+   "speeds": 26,
+   "hours": 1
+  },
+  "207_-246": {
+   "washrooms": 2,
+   "speeds": 15,
+   "lanes": 1
+  },
+  "207_-247": {
+   "speeds": 14
+  },
+  "207_-249": {
+   "washrooms": 1,
+   "speeds": 4
+  },
+  "207_-250": {
+   "washrooms": 3,
+   "speeds": 13,
+   "hours": 1
+  },
+  "207_-251": {
+   "speeds": 1
+  },
+  "208_-229": {
+   "hours": 1
+  },
+  "208_-230": {
+   "hours": 1
+  },
+  "208_-238": {
+   "speeds": 1
+  },
+  "208_-239": {
+   "washrooms": 8,
+   "speeds": 11,
+   "hours": 1
+  },
+  "208_-240": {
+   "washrooms": 1
+  },
+  "208_-241": {
+   "washrooms": 14,
+   "essentials": 4
+  },
+  "208_-244": {
+   "washrooms": 2,
+   "speeds": 32,
+   "lanes": 5,
+   "hours": 1
+  },
+  "208_-245": {
+   "washrooms": 28,
+   "essentials": 2,
+   "speeds": 195,
+   "lanes": 8,
+   "hours": 24
+  },
+  "208_-247": {
+   "washrooms": 6,
+   "essentials": 1,
+   "speeds": 14
+  },
+  "208_-248": {
+   "speeds": 9
+  },
+  "208_-249": {
+   "washrooms": 1,
+   "speeds": 2
+  },
+  "208_-253": {
+   "washrooms": 3
+  },
+  "208_-254": {
+   "washrooms": 1
+  },
+  "208_-257": {
+   "washrooms": 4,
+   "speeds": 4,
+   "hours": 2
+  },
+  "209_-229": {
+   "hours": 28
+  },
+  "209_-230": {
+   "hours": 22
+  },
+  "209_-239": {
+   "speeds": 14
+  },
+  "209_-243": {
+   "washrooms": 6,
+   "essentials": 2,
+   "hours": 1
+  },
+  "209_-244": {
+   "washrooms": 1,
+   "hours": 1
+  },
+  "209_-245": {
+   "washrooms": 5,
+   "speeds": 16,
+   "lanes": 2,
+   "hours": 2
+  },
+  "209_-251": {
+   "washrooms": 2,
+   "speeds": 2
+  },
+  "209_-252": {
+   "washrooms": 1
+  },
+  "209_-253": {
+   "washrooms": 2,
+   "speeds": 1
+  },
+  "209_-254": {
+   "washrooms": 7,
+   "speeds": 5,
+   "hours": 2
+  },
+  "209_-256": {
+   "hours": 1
+  },
+  "210_-229": {
+   "hours": 10
+  },
+  "210_-231": {
+   "hours": 1
+  },
+  "210_-239": {
+   "washrooms": 2,
+   "speeds": 7
+  },
+  "210_-243": {
+   "speeds": 1
+  },
+  "210_-244": {
+   "washrooms": 1,
+   "hours": 1
+  },
+  "210_-245": {
+   "washrooms": 7,
+   "speeds": 1
+  },
+  "210_-252": {
+   "washrooms": 4
+  },
+  "210_-253": {
+   "washrooms": 1
+  },
+  "210_-258": {
+   "hours": 1
+  },
+  "211_-229": {
+   "hours": 1
+  },
+  "211_-230": {
+   "hours": 2
+  },
+  "211_-237": {
+   "washrooms": 4,
+   "speeds": 6,
+   "hours": 14
+  },
+  "211_-238": {
+   "washrooms": 3,
+   "speeds": 16
+  },
+  "211_-239": {
+   "washrooms": 23,
+   "essentials": 2,
+   "speeds": 33,
+   "hours": 5
+  },
+  "211_-242": {
+   "washrooms": 1
+  },
+  "211_-245": {
+   "washrooms": 23,
+   "essentials": 2,
+   "speeds": 93,
+   "lanes": 13,
+   "hours": 25
+  },
+  "211_-246": {
+   "washrooms": 4,
+   "speeds": 16,
+   "lanes": 5,
+   "hours": 4
+  },
+  "211_-248": {
+   "washrooms": 1
+  },
+  "212_-229": {
+   "hours": 4
+  },
+  "212_-230": {
+   "hours": 20
+  },
+  "212_-235": {
+   "hours": 1
+  },
+  "212_-239": {
+   "washrooms": 12,
+   "essentials": 1,
+   "speeds": 17
+  },
+  "212_-240": {
+   "washrooms": 1,
+   "speeds": 10
+  },
+  "212_-241": {
+   "speeds": 2
+  },
+  "212_-242": {
+   "washrooms": 1
+  },
+  "212_-244": {
+   "washrooms": 13,
+   "hours": 1
+  },
+  "212_-245": {
+   "washrooms": 6,
+   "speeds": 26,
+   "lanes": 1,
+   "hours": 1
+  },
+  "212_-246": {
+   "washrooms": 2,
+   "speeds": 22,
+   "lanes": 6
+  },
+  "212_-259": {
+   "essentials": 3
+  },
+  "212_-264": {
+   "washrooms": 6,
+   "essentials": 1,
+   "hours": 1
+  },
+  "212_-265": {
+   "washrooms": 5
+  },
+  "213_-230": {
+   "hours": 1
+  },
+  "213_-236": {
+   "hours": 25
+  },
+  "213_-241": {
+   "washrooms": 15,
+   "speeds": 18,
+   "hours": 2
+  },
+  "213_-242": {
+   "speeds": 3
+  },
+  "213_-245": {
+   "washrooms": 1,
+   "speeds": 1
+  },
+  "213_-246": {
+   "washrooms": 3,
+   "speeds": 15,
+   "lanes": 3,
+   "hours": 1
+  },
+  "213_-247": {
+   "washrooms": 1
+  },
+  "213_-259": {
+   "speeds": 1,
+   "hours": 1
+  },
+  "213_-264": {
+   "washrooms": 7
+  },
+  "213_-265": {
+   "washrooms": 6,
+   "essentials": 2,
+   "speeds": 2,
+   "hours": 2
+  },
+  "214_-229": {
+   "hours": 9
+  },
+  "214_-230": {
+   "hours": 7
+  },
+  "214_-231": {
+   "hours": 2
+  },
+  "214_-232": {
+   "hours": 6
+  },
+  "214_-233": {
+   "hours": 22
+  },
+  "214_-242": {
+   "speeds": 3
+  },
+  "214_-243": {
+   "washrooms": 4,
+   "speeds": 3
+  },
+  "214_-246": {
+   "washrooms": 5,
+   "speeds": 41,
+   "lanes": 15
+  },
+  "214_-248": {
+   "washrooms": 3,
+   "speeds": 2
+  },
+  "214_-249": {
+   "speeds": 1
+  },
+  "214_-250": {
+   "speeds": 4
+  },
+  "214_-256": {
+   "washrooms": 1
+  },
+  "214_-264": {
+   "washrooms": 3,
+   "essentials": 2,
+   "hours": 1
+  },
+  "214_-265": {
+   "washrooms": 5,
+   "hours": 1
+  },
+  "215_-229": {
+   "hours": 1
+  },
+  "215_-230": {
+   "hours": 3
+  },
+  "215_-231": {
+   "hours": 2
+  },
+  "215_-234": {
+   "hours": 1
+  },
+  "215_-239": {
+   "hours": 7
+  },
+  "215_-243": {
+   "washrooms": 4,
+   "speeds": 1
+  },
+  "215_-244": {
+   "washrooms": 4,
+   "speeds": 4
+  },
+  "215_-245": {
+   "washrooms": 4,
+   "speeds": 6
+  },
+  "215_-246": {
+   "washrooms": 111,
+   "essentials": 12,
+   "speeds": 331,
+   "lanes": 67,
+   "hours": 131
+  },
+  "215_-247": {
+   "washrooms": 1,
+   "speeds": 3
+  },
+  "215_-248": {
+   "washrooms": 1,
+   "speeds": 5
+  },
+  "215_-249": {
+   "speeds": 2
+  },
+  "215_-250": {
+   "speeds": 5
+  },
+  "215_-251": {
+   "speeds": 2
+  },
+  "215_-253": {
+   "washrooms": 1
+  },
+  "215_-258": {
+   "washrooms": 1,
+   "speeds": 1
+  },
+  "215_-261": {
+   "hours": 1
+  },
+  "216_-229": {
+   "hours": 14
+  },
+  "216_-232": {
+   "hours": 28
+  },
+  "216_-244": {
+   "washrooms": 1
+  },
+  "216_-246": {
+   "washrooms": 10,
+   "lanes": 1,
+   "hours": 1
+  },
+  "216_-247": {
+   "washrooms": 4
+  },
+  "216_-248": {
+   "washrooms": 3,
+   "essentials": 1,
+   "speeds": 5
+  },
+  "216_-249": {
+   "washrooms": 24,
+   "essentials": 2,
+   "speeds": 25,
+   "hours": 11
+  },
+  "216_-250": {
+   "washrooms": 23,
+   "essentials": 4,
+   "speeds": 99,
+   "hours": 3
+  },
+  "216_-251": {
+   "washrooms": 8,
+   "speeds": 12
+  },
+  "216_-252": {
+   "washrooms": 13,
+   "essentials": 2,
+   "speeds": 68,
+   "hours": 7
+  },
+  "216_-254": {
+   "speeds": 3
+  },
+  "216_-257": {
+   "speeds": 3
+  },
+  "216_-258": {
+   "washrooms": 15,
+   "essentials": 1,
+   "speeds": 77,
+   "hours": 11
+  },
+  "216_-260": {
+   "washrooms": 3,
+   "speeds": 1
+  },
+  "216_-261": {
+   "washrooms": 10,
+   "speeds": 53,
+   "hours": 1
+  },
+  "216_-264": {
+   "washrooms": 6,
+   "essentials": 2
+  },
+  "216_-265": {
+   "washrooms": 5,
+   "essentials": 1,
+   "hours": 2
+  },
+  "217_-229": {
+   "hours": 1
+  },
+  "217_-230": {
+   "hours": 1
+  },
+  "217_-234": {
+   "hours": 4
+  },
+  "217_-245": {
+   "washrooms": 1,
+   "speeds": 1
+  },
+  "217_-246": {
+   "washrooms": 4,
+   "hours": 1
+  },
+  "217_-249": {
+   "washrooms": 4,
+   "hours": 5
+  },
+  "217_-252": {
+   "washrooms": 1,
+   "speeds": 4
+  },
+  "217_-253": {
+   "washrooms": 1,
+   "speeds": 2
+  },
+  "217_-254": {
+   "washrooms": 13,
+   "speeds": 88,
+   "hours": 8
+  },
+  "217_-257": {
+   "washrooms": 1
+  },
+  "217_-258": {
+   "washrooms": 35,
+   "essentials": 41,
+   "speeds": 10,
+   "hours": 1
+  },
+  "217_-259": {
+   "washrooms": 4,
+   "essentials": 1
+  },
+  "217_-261": {
+   "washrooms": 33,
+   "essentials": 4,
+   "speeds": 37,
+   "lanes": 9,
+   "hours": 18
+  },
+  "218_-229": {
+   "hours": 2
+  },
+  "218_-231": {
+   "hours": 2
+  },
+  "218_-241": {
+   "speeds": 3
+  },
+  "218_-242": {
+   "speeds": 11
+  },
+  "218_-243": {
+   "speeds": 3
+  },
+  "218_-253": {
+   "washrooms": 2,
+   "essentials": 1,
+   "speeds": 4
+  },
+  "218_-254": {
+   "washrooms": 3,
+   "speeds": 1
+  },
+  "218_-255": {
+   "washrooms": 2,
+   "speeds": 15,
+   "hours": 1
+  },
+  "218_-257": {
+   "washrooms": 1,
+   "speeds": 18
+  },
+  "218_-258": {
+   "washrooms": 41,
+   "essentials": 3,
+   "speeds": 13,
+   "lanes": 2,
+   "hours": 36
+  },
+  "218_-261": {
+   "speeds": 1,
+   "hours": 1
+  },
+  "219_-242": {
+   "speeds": 26
+  },
+  "219_-243": {
+   "washrooms": 10,
+   "speeds": 23
+  },
+  "219_-244": {
+   "washrooms": 1
+  },
+  "219_-246": {
+   "washrooms": 2
+  },
+  "219_-253": {
+   "washrooms": 3,
+   "hours": 1
+  },
+  "219_-254": {
+   "speeds": 3
+  },
+  "219_-255": {
+   "washrooms": 21,
+   "essentials": 3,
+   "speeds": 71,
+   "lanes": 5,
+   "hours": 17
+  },
+  "219_-257": {
+   "speeds": 4
+  },
+  "219_-258": {
+   "washrooms": 1
+  },
+  "220_-235": {
+   "hours": 11
+  },
+  "220_-236": {
+   "hours": 1
+  },
+  "220_-237": {
+   "hours": 2
+  },
+  "220_-238": {
+   "hours": 145
+  },
+  "220_-239": {
+   "hours": 7
+  },
+  "220_-242": {
+   "washrooms": 4,
+   "essentials": 1,
+   "speeds": 14,
+   "hours": 2
+  },
+  "220_-243": {
+   "washrooms": 4,
+   "speeds": 44
+  },
+  "220_-244": {
+   "washrooms": 1,
+   "speeds": 22
+  },
+  "220_-246": {
+   "washrooms": 3,
+   "speeds": 2
+  },
+  "220_-247": {
+   "speeds": 3
+  },
+  "220_-255": {
+   "washrooms": 4,
+   "speeds": 10
+  },
+  "220_-256": {
+   "washrooms": 4,
+   "speeds": 8,
+   "hours": 3
+  },
+  "220_-257": {
+   "washrooms": 2,
+   "speeds": 12,
+   "hours": 1
+  },
+  "220_-258": {
+   "washrooms": 1
+  },
+  "220_-259": {
+   "washrooms": 4,
+   "essentials": 1,
+   "speeds": 2,
+   "hours": 1
+  },
+  "220_-260": {
+   "washrooms": 2
+  },
+  "220_-264": {
+   "hours": 1
+  },
+  "220_-266": {
+   "hours": 1
+  },
+  "221_-230": {
+   "hours": 20
+  },
+  "221_-231": {
+   "hours": 1
+  },
+  "221_-232": {
+   "hours": 3
+  },
+  "221_-233": {
+   "hours": 13
+  },
+  "221_-238": {
+   "hours": 3
+  },
+  "221_-239": {
+   "hours": 1
+  },
+  "221_-240": {
+   "speeds": 2,
+   "hours": 2
+  },
+  "221_-241": {
+   "speeds": 7
+  },
+  "221_-242": {
+   "speeds": 8
+  },
+  "221_-243": {
+   "speeds": 4
+  },
+  "221_-244": {
+   "speeds": 8
+  },
+  "221_-246": {
+   "washrooms": 3,
+   "speeds": 4
+  },
+  "221_-247": {
+   "washrooms": 7,
+   "speeds": 27,
+   "hours": 6
+  },
+  "221_-252": {
+   "washrooms": 1,
+   "hours": 1
+  },
+  "221_-256": {
+   "washrooms": 3,
+   "speeds": 6,
+   "hours": 1
+  },
+  "221_-257": {
+   "washrooms": 2,
+   "speeds": 3
+  },
+  "221_-264": {
+   "hours": 13
+  },
+  "221_-267": {
+   "hours": 3
+  },
+  "222_-233": {
+   "hours": 1
+  },
+  "222_-234": {
+   "hours": 2
+  },
+  "222_-235": {
+   "hours": 6
+  },
+  "222_-237": {
+   "hours": 1
+  },
+  "222_-241": {
+   "washrooms": 13,
+   "essentials": 2,
+   "speeds": 86,
+   "lanes": 19,
+   "hours": 11
+  },
+  "222_-242": {
+   "speeds": 14
+  },
+  "222_-243": {
+   "washrooms": 2,
+   "speeds": 20
+  },
+  "222_-244": {
+   "washrooms": 7,
+   "essentials": 1,
+   "speeds": 39,
+   "lanes": 11,
+   "hours": 8
+  },
+  "222_-245": {
+   "speeds": 10
+  },
+  "222_-246": {
+   "washrooms": 2,
+   "speeds": 11
+  },
+  "222_-249": {
+   "hours": 1
+  },
+  "222_-257": {
+   "speeds": 3
+  },
+  "222_-258": {
+   "speeds": 2
+  },
+  "222_-265": {
+   "hours": 1
+  },
+  "222_-266": {
+   "hours": 1
+  },
+  "222_-267": {
+   "hours": 2
+  },
+  "223_-232": {
+   "hours": 2
+  },
+  "223_-235": {
+   "hours": 1
+  },
+  "223_-236": {
+   "hours": 2
+  },
+  "223_-238": {
+   "hours": 4
+  },
+  "223_-240": {
+   "speeds": 2,
+   "hours": 2
+  },
+  "223_-241": {
+   "washrooms": 18,
+   "essentials": 1,
+   "speeds": 119,
+   "hours": 17
+  },
+  "223_-242": {
+   "washrooms": 2,
+   "speeds": 33,
+   "hours": 1
+  },
+  "223_-243": {
+   "speeds": 20
+  },
+  "223_-244": {
+   "speeds": 14,
+   "lanes": 3
+  },
+  "223_-251": {
+   "speeds": 2
+  },
+  "223_-258": {
+   "speeds": 1
+  },
+  "223_-259": {
+   "washrooms": 2,
+   "speeds": 4
+  },
+  "223_-260": {
+   "washrooms": 4,
+   "speeds": 16,
+   "hours": 1
+  },
+  "223_-261": {
+   "washrooms": 1,
+   "speeds": 15,
+   "hours": 1
+  },
+  "224_-235": {
+   "hours": 17
+  },
+  "224_-236": {
+   "hours": 7
+  },
+  "224_-237": {
+   "hours": 9
+  },
+  "224_-238": {
+   "hours": 1
+  },
+  "224_-240": {
+   "hours": 2
+  },
+  "224_-241": {
+   "washrooms": 1,
+   "speeds": 6
+  },
+  "224_-242": {
+   "washrooms": 69,
+   "essentials": 5,
+   "speeds": 338,
+   "lanes": 20,
+   "hours": 43
+  },
+  "224_-243": {
+   "washrooms": 4,
+   "speeds": 35
+  },
+  "224_-244": {
+   "washrooms": 5,
+   "speeds": 33,
+   "hours": 2
+  },
+  "224_-245": {
+   "speeds": 19
+  },
+  "224_-249": {
+   "speeds": 4
+  },
+  "224_-250": {
+   "speeds": 15
+  },
+  "224_-251": {
+   "speeds": 10
+  },
+  "224_-259": {
+   "washrooms": 10,
+   "essentials": 1,
+   "speeds": 10
+  },
+  "224_-260": {
+   "washrooms": 2,
+   "speeds": 2
+  },
+  "224_-261": {
+   "washrooms": 1,
+   "speeds": 1
+  },
+  "225_-230": {
+   "hours": 1
+  },
+  "225_-233": {
+   "hours": 1
+  },
+  "225_-239": {
+   "hours": 1
+  },
+  "225_-240": {
+   "speeds": 3
+  },
+  "225_-241": {
+   "speeds": 12,
+   "hours": 1
+  },
+  "225_-242": {
+   "washrooms": 21,
+   "speeds": 288,
+   "lanes": 6,
+   "hours": 2
+  },
+  "225_-243": {
+   "washrooms": 2,
+   "speeds": 23
+  },
+  "225_-244": {
+   "speeds": 5
+  },
+  "225_-245": {
+   "speeds": 13
+  },
+  "225_-246": {
+   "speeds": 2
+  },
+  "225_-249": {
+   "speeds": 7
+  },
+  "225_-250": {
+   "speeds": 9
+  },
+  "225_-259": {
+   "washrooms": 2,
+   "speeds": 5
+  },
+  "225_-265": {
+   "hours": 2
+  },
+  "226_-230": {
+   "hours": 1
+  },
+  "226_-231": {
+   "hours": 3
+  },
+  "226_-236": {
+   "hours": 1
+  },
+  "226_-239": {
+   "hours": 1
+  },
+  "226_-240": {
+   "speeds": 3
+  },
+  "226_-241": {
+   "washrooms": 1,
+   "speeds": 33
+  },
+  "226_-242": {
+   "washrooms": 1,
+   "speeds": 29
+  },
+  "226_-243": {
+   "washrooms": 1,
+   "speeds": 19
+  },
+  "226_-244": {
+   "washrooms": 1,
+   "speeds": 53
+  },
+  "226_-245": {
+   "speeds": 23
+  },
+  "226_-246": {
+   "speeds": 2
+  },
+  "226_-250": {
+   "speeds": 10
+  },
+  "226_-251": {
+   "speeds": 11
+  },
+  "226_-259": {
+   "speeds": 1
+  },
+  "226_-260": {
+   "washrooms": 1,
+   "speeds": 5
+  },
+  "226_-265": {
+   "washrooms": 1
+  },
+  "227_-236": {
+   "hours": 5
+  },
+  "227_-242": {
+   "speeds": 3
+  },
+  "227_-243": {
+   "speeds": 6
+  },
+  "227_-244": {
+   "speeds": 18
+  },
+  "227_-245": {
+   "speeds": 51
+  },
+  "227_-250": {
+   "speeds": 4
+  },
+  "227_-251": {
+   "speeds": 1
+  },
+  "227_-260": {
+   "washrooms": 1,
+   "speeds": 6
+  },
+  "227_-261": {
+   "washrooms": 1,
+   "speeds": 4
+  },
+  "227_-266": {
+   "hours": 2
+  },
+  "227_-268": {
+   "hours": 1
+  },
+  "228_-241": {
+   "speeds": 3
+  },
+  "228_-242": {
+   "speeds": 4
+  },
+  "228_-243": {
+   "speeds": 2
+  },
+  "228_-244": {
+   "speeds": 6
+  },
+  "228_-245": {
+   "speeds": 40
+  },
+  "228_-246": {
+   "washrooms": 3,
+   "speeds": 41
+  },
+  "228_-247": {
+   "speeds": 1
+  },
+  "228_-261": {
+   "speeds": 4
+  },
+  "228_-271": {
+   "hours": 7
+  },
+  "229_-241": {
+   "speeds": 3
+  },
+  "229_-244": {
+   "speeds": 6
+  },
+  "229_-245": {
+   "speeds": 13
+  },
+  "229_-246": {
+   "washrooms": 3,
+   "speeds": 12
+  },
+  "229_-261": {
+   "washrooms": 2,
+   "speeds": 5
+  },
+  "229_-270": {
+   "hours": 1
+  },
+  "230_-240": {
+   "speeds": 1
+  },
+  "230_-241": {
+   "speeds": 3
+  },
+  "230_-244": {
+   "speeds": 2
+  },
+  "230_-246": {
+   "washrooms": 2,
+   "speeds": 12
+  },
+  "230_-247": {
+   "speeds": 2
+  },
+  "230_-260": {
+   "speeds": 1
+  },
+  "230_-261": {
+   "washrooms": 3,
+   "speeds": 2
+  },
+  "231_-235": {
+   "hours": 1
+  },
+  "231_-241": {
+   "speeds": 2
+  },
+  "231_-244": {
+   "speeds": 1
+  },
+  "231_-246": {
+   "speeds": 1
+  },
+  "231_-260": {
+   "washrooms": 1,
+   "speeds": 2,
+   "hours": 1
+  },
+  "231_-261": {
+   "washrooms": 3,
+   "speeds": 2
+  },
+  "231_-263": {
+   "washrooms": 1,
+   "hours": 1
+  },
+  "231_-271": {
+   "hours": 1
+  },
+  "231_-273": {
+   "hours": 1
+  },
+  "232_-233": {
+   "hours": 7
+  },
+  "232_-246": {
+   "speeds": 5,
+   "hours": 1
+  },
+  "232_-260": {
+   "speeds": 4
+  },
+  "232_-261": {
+   "speeds": 1
+  },
+  "232_-262": {
+   "washrooms": 1
+  },
+  "232_-271": {
+   "hours": 1
+  },
+  "232_-273": {
+   "hours": 1
+  },
+  "233_-230": {
+   "hours": 1
+  },
+  "233_-233": {
+   "hours": 2
+  },
+  "233_-240": {
+   "speeds": 1
+  },
+  "233_-241": {
+   "speeds": 1
+  },
+  "233_-245": {
+   "hours": 1
+  },
+  "233_-246": {
+   "speeds": 1
+  },
+  "233_-260": {
+   "washrooms": 1,
+   "speeds": 3,
+   "hours": 1
+  },
+  "233_-261": {
+   "speeds": 3
+  },
+  "233_-269": {
+   "hours": 12
+  },
+  "233_-270": {
+   "hours": 28
+  },
+  "233_-272": {
+   "hours": 1
+  },
+  "234_-235": {
+   "hours": 16
+  },
+  "234_-238": {
+   "hours": 1
+  },
+  "234_-239": {
+   "hours": 1
+  },
+  "234_-243": {
+   "speeds": 1
+  },
+  "234_-244": {
+   "speeds": 1
+  },
+  "234_-245": {
+   "speeds": 1
+  },
+  "234_-246": {
+   "washrooms": 2,
+   "speeds": 4
+  },
+  "234_-248": {
+   "washrooms": 3,
+   "speeds": 2
+  },
+  "234_-249": {
+   "speeds": 8
+  },
+  "234_-250": {
+   "washrooms": 3,
+   "speeds": 7
+  },
+  "234_-261": {
+   "washrooms": 1,
+   "speeds": 5
+  },
+  "235_-243": {
+   "speeds": 4
+  },
+  "235_-244": {
+   "speeds": 2
+  },
+  "235_-245": {
+   "speeds": 3
+  },
+  "235_-246": {
+   "washrooms": 11,
+   "essentials": 1,
+   "speeds": 41,
+   "lanes": 2,
+   "hours": 7
+  },
+  "235_-247": {
+   "speeds": 1
+  },
+  "235_-248": {
+   "speeds": 5
+  },
+  "235_-250": {
+   "speeds": 1
+  },
+  "235_-251": {
+   "washrooms": 1,
+   "speeds": 19,
+   "hours": 1
+  },
+  "235_-252": {
+   "speeds": 5,
+   "hours": 1
+  },
+  "235_-260": {
+   "speeds": 5
+  },
+  "235_-261": {
+   "washrooms": 2,
+   "speeds": 1
+  },
+  "236_-236": {
+   "hours": 1
+  },
+  "236_-238": {
+   "hours": 1
+  },
+  "236_-244": {
+   "speeds": 3
+  },
+  "236_-247": {
+   "washrooms": 2
+  },
+  "236_-252": {
+   "speeds": 6
+  },
+  "236_-260": {
+   "washrooms": 2,
+   "speeds": 4
+  },
+  "236_-271": {
+   "hours": 2
+  },
+  "237_-252": {
+   "speeds": 2
+  },
+  "237_-253": {
+   "washrooms": 15,
+   "essentials": 1,
+   "speeds": 5
+  },
+  "237_-259": {
+   "washrooms": 3,
+   "speeds": 3,
+   "hours": 1
+  },
+  "237_-260": {
+   "speeds": 2
+  },
+  "237_-271": {
+   "hours": 3
+  },
+  "237_-273": {
+   "speeds": 7
+  },
+  "238_-253": {
+   "speeds": 3
+  },
+  "238_-254": {
+   "speeds": 5
+  },
+  "238_-255": {
+   "speeds": 1
+  },
+  "238_-259": {
+   "washrooms": 1,
+   "speeds": 3
+  },
+  "238_-268": {
+   "washrooms": 5,
+   "speeds": 1,
+   "hours": 1
+  },
+  "238_-270": {
+   "speeds": 1
+  },
+  "238_-271": {
+   "washrooms": 3,
+   "speeds": 14
+  },
+  "238_-273": {
+   "speeds": 3
+  },
+  "238_-274": {
+   "washrooms": 2,
+   "speeds": 3
+  },
+  "239_-255": {
+   "speeds": 1
+  },
+  "239_-256": {
+   "speeds": 6
+  },
+  "239_-257": {
+   "washrooms": 1,
+   "speeds": 3,
+   "hours": 1
+  },
+  "239_-258": {
+   "speeds": 1
+  },
+  "239_-259": {
+   "washrooms": 1,
+   "speeds": 6
+  },
+  "239_-263": {
+   "washrooms": 2,
+   "speeds": 4
+  },
+  "239_-264": {
+   "speeds": 5
+  },
+  "239_-265": {
+   "washrooms": 3,
+   "speeds": 1
+  },
+  "239_-268": {
+   "washrooms": 1,
+   "speeds": 1
+  },
+  "239_-270": {
+   "washrooms": 2,
+   "speeds": 1
+  },
+  "239_-271": {
+   "washrooms": 1
+  },
+  "239_-274": {
+   "speeds": 8
+  },
+  "240_-256": {
+   "speeds": 10
+  },
+  "240_-258": {
+   "washrooms": 2,
+   "speeds": 3
+  },
+  "240_-259": {
+   "speeds": 3
+  },
+  "240_-262": {
+   "speeds": 1
+  },
+  "240_-263": {
+   "speeds": 4
+  },
+  "240_-265": {
+   "speeds": 1
+  },
+  "240_-268": {
+   "washrooms": 1,
+   "speeds": 2
+  },
+  "240_-270": {
+   "speeds": 3
+  },
+  "240_-274": {
+   "speeds": 1
+  }
+ }
+}

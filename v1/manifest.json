@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "generated": "2026-11-09T20:57:32Z",
+  "files": {
+    "washrooms": {
+      "count": 4488,
+      "bytes": 1323654,
+      "osm_base": "2026-11-08T21:21:00Z"
+    },
+    "essentials": {
+      "count": 1257,
+      "bytes": 285879,
+      "osm_base": "2026-11-08T21:21:00Z"
+    }
+  }
+}
